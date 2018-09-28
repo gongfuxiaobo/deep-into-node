@@ -69,5 +69,3 @@ Node.js 的源码分析，基于node v6.0.0。
 
 **如果您觉得还不错, 请我喝杯咖啡，欢迎Star,  提交PR** 
 
-![zhi](alipay.jpg)
-
